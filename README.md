@@ -23,9 +23,11 @@
 <hr/>
 <h3 align="center">Proyectos elaborados</h3>
 
-  | Proyecto | Descripción | Tecnologías | Enlace | Vista Previa |
+  | Proyecto | Descripción | Herramientas | Enlace | Vista Previa |
   |----------|-------------|---------------|--------|--------------|
-  | Optimus Prime Motors | Programa que simulaba las plataformas de venta y compra de diferentes tipos de vehículos. | Java, Scene Builder | [Optimus Prime Motors](https://github.com/KevinJSalazar/Proyecto1-Estructuras-Grupo10.git) | [![Vista Previa](https://github.com/ssaquisi/ssaquisi/assets/optimus.png)](https://github.com/KevinJSalazar/Proyecto1-Estructuras-Grupo10.git) |
+  | Optimus Prime Motors | Programa que simulaba las plataformas de venta y compra de diferentes tipos de vehículos. | Java, SceneBuilder | [Optimus Prime Motors](https://github.com/KevinJSalazar/Proyecto1-Estructuras-Grupo10.git) | [![Vista Previa](./assets/optimus.png)](https://github.com/KevinJSalazar/Proyecto1-Estructuras-Grupo10.git) |
+  | Safari de preguntas | Juego interactivo donde la máquina trataba de adivinar qué animal estaba pensando el jugador. Y viceversa. | Java, SceneBuilder | [Safari de preguntas](https://github.com/KevinJSalazar/Proyecto2-EstructurasDatos.git) | [![Vista Previa](./assets/safari.png)](https://github.com/KevinJSalazar/Proyecto2-EstructurasDatos.git) |
+  | Curriculum Vitae | Página web con información clave de un currículum | HTML, CSS | [Curriculum Vitae](https://ssaquisi.github.io/curriculum/) |  [![curriculum](./assets/curri.png)](https://ssaquisi.github.io/curriculum/) |
   
   
 
