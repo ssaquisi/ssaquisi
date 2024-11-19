@@ -11,7 +11,7 @@
 </div>
 <hr/>
 <h3 align="center">Intereses y curiosidades sobre mí</h3>
-<p align="center">🌼 Estudiante de la Escuela Superior Politénica del Litoral.</p>
+<p align="center">🌼 Estudiante de la Escuela Superior Politécnica del Litoral.</p>
 <p align="center">👩‍💻 Trabajo a tiempo parcial en varias actividades relacionadas con atención al cliente.</p>
 <p align="center">📖 En mi tiempo libre, disfruto ver series de anime y leer mangas.</p>
 <p align="center">☕ Amante de la cafeína y el chocolate caliente, especialmente durante una buena conversación.</p>
@@ -30,7 +30,7 @@
   |----------|-------------|---------------|--------|--------------|
   | Optimus Prime Motors | Programa que simulaba las plataformas de venta y compra de diferentes tipos de vehículos. | Java, JavaFX, SceneBuilder | [Optimus Prime Motors](https://github.com/KevinJSalazar/Proyecto1-Estructuras-Grupo10.git) | [![Vista Previa](./assets/optimus.png)](https://github.com/KevinJSalazar/Proyecto1-Estructuras-Grupo10.git) |
   | Safari de preguntas | Juego interactivo donde la máquina trataba de adivinar qué animal estaba pensando el jugador. Y viceversa. | Java, JavaFX, SceneBuilder | [Safari de preguntas](https://github.com/KevinJSalazar/Proyecto2-EstructurasDatos.git) | [![Vista Previa](./assets/safari.png)](https://github.com/KevinJSalazar/Proyecto2-EstructurasDatos.git) |
-  | Curriculum Vitae | Página web con información clave de un currículum | HTML, CSS, Visual Studio Code | [Curriculum Vitae](https://ssaquisi.github.io/curriculum/) |  [![curriculum](./assets/curri.png)](https://ssaquisi.github.io/curriculum/) |
+  | Curriculum Vitae | Página web con información clave de un curriculum | HTML, CSS, Visual Studio Code | [Curriculum Vitae](https://ssaquisi.github.io/curriculum/) |  [![curriculum](./assets/curri.png)](https://ssaquisi.github.io/curriculum/) |
   
   
 
