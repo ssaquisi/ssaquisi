@@ -30,7 +30,7 @@
   |----------|-------------|---------------|--------|--------------|
   | Optimus Prime Motors | Programa que simulaba las plataformas de venta y compra de diferentes tipos de vehículos. | Java, JavaFX, SceneBuilder | [Optimus Prime Motors](https://github.com/KevinJSalazar/Proyecto1-Estructuras-Grupo10.git) | [![Vista Previa](./assets/optimus.png)](https://github.com/KevinJSalazar/Proyecto1-Estructuras-Grupo10.git) |
   | Safari de preguntas | Juego interactivo donde la máquina trataba de adivinar qué animal estaba pensando el jugador. Y viceversa. | Java, JavaFX, SceneBuilder | [Safari de preguntas](https://github.com/KevinJSalazar/Proyecto2-EstructurasDatos.git) | [![Vista Previa](./assets/safari.png)](https://github.com/KevinJSalazar/Proyecto2-EstructurasDatos.git) |
-  | Curriculum Vitae | Página web con información clave de un curriculum | HTML, CSS, Visual Studio Code | [Curriculum Vitae](https://ssaquisi.github.io/curriculum/) |  [![curriculum](./assets/curri.png)](https://ssaquisi.github.io/curriculum/) |
+  | Curriculum Vitae | Página web con información clave de un curriculum. | HTML, CSS, Visual Studio Code | [Curriculum Vitae](https://ssaquisi.github.io/curriculum/) |  [![curriculum](./assets/curri.png)](https://ssaquisi.github.io/curriculum/) |
   
   
 
